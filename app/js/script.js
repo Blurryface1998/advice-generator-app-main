@@ -4,7 +4,7 @@ let advice = document.querySelector("h1");
 
 // getting Data for URL Advice Slip and showing it on index page:
 function displayData() {
-    fetch(url)
+    fetch(url, {cache: "no-cache"})
     .then(response => {
         return response.json();
     })
