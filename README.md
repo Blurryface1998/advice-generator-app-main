@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/mobile-first-workflow-advice-generator-app-1Zhpztkn9h)
+- Live Site URL: (https://blurryface1998.github.io/advice-generator-app-main/)
 
 ## My process
 
