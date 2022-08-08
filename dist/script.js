@@ -1,0 +1,2 @@
+"use strict";var url="https://api.adviceslip.com/advice",span=document.querySelector("span"),advice=document.querySelector("h1");function displayData(){fetch(url).then((function(n){return n.json()})).then((function(n){var e=n.slip;advice.innerHTML=e.advice,span.innerHTML="Advice #"+e.id})).catch((function(n){console.log(n)}))}window.onload=displayData();
+//# sourceMappingURL=script.js.map
